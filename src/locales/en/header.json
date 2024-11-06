@@ -1,0 +1,12 @@
+{
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "login": "Login",
+  "wish list": "Wish list",
+  "my cart": "My cart",
+  "language": {
+    "en": "English",
+    "vi": "Vietnamese" 
+  }
+}
