@@ -3,8 +3,8 @@
   "about": "About",
   "contact": "Contact",
   "login": "Login",
-  "wish list": "Wish list",
-  "my cart": "My cart",
+  "wish_list": "Wish list",
+  "my_cart": "My cart",
   "language": {
     "en": "English",
     "vi": "Vietnamese" 
