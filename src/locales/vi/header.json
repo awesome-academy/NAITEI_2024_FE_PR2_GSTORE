@@ -1,0 +1,12 @@
+{
+  "home": "Trang chủ",
+  "about": "Giới thiệu",
+  "contact": "Liên hệ",
+  "login": "Đăng nhập",
+  "wish list": "Yêu thích",
+  "my cart": "Giỏ hàng",
+  "language": {
+    "en": "Tiếng Anh",
+    "vi": "Tiếng Việt" 
+  }
+}
