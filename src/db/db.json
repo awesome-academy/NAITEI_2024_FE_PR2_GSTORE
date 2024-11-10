@@ -1,0 +1,873 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "adidas Unisex Prime 6 Backpack, Black, One Size",
+      "price": 70,
+      "discount": 50,
+      "prevPrice": "$140",
+      "priceRange": "$50-$100",
+      "description": "Your perfect backpack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Luggage & travel gear",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/sam5003-xla-14.jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/sam5003-xla-14.jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/sam5003-xla-14.jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/sam5003-xla-14.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 1120
+      },
+      "company": "Adidas",
+      "color": "black"
+    },
+    {
+      "id": 2,
+      "title": "fanideaz Men’s Cotton Full Sleeve Henley T Shirts for Men",
+      "price": 22.3,
+      "discount": 30,
+      "prevPrice": "$30.00",
+      "priceRange": "$10-$50",
+      "description": "Fabric : 100% Pure Soft Cotton; Gsm: 180-190 Gsm Combed And Bio-Wash Fabric; Wrist Has Elastic Rib To Fit The Style",
+      "category": "Men's clothing",
+      "images": [
+        "https://m.media-amazon.com/images/I/71U1e4XCVJL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/71a+IpJ3QBL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/71Q+XTBLW3L._SY879_.jpg"
+      ],
+      "img": "https://m.media-amazon.com/images/I/71U1e4XCVJL._SY879_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 2259
+      },
+      "company": "fanideaz",
+      "color": "white"
+    },
+    {
+      "id": 3,
+      "title": "Quarter Zip Sweater Men's Pullover Sweaters Knit Long Sleeve Sweater Men",
+      "price": 29.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Thick Knitted Sweaters and Lightweight, offers you warm and trendy styles. Warm zipper knit sweater for men, perfect as a Christmas gift, birthday gift, for yourself, your friend, your father or boyfriend.",
+      "category": "Men's clothing",
+      "images": [
+        "https://m.media-amazon.com/images/I/81R-fGWEKNL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81puBF5EyCL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/814ZB06Dd3L._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91hed3KbHNL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91ya04597GL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81zIb-6gHhL._AC_SX679_.jpg"
+      ],
+      "img": "https://m.media-amazon.com/images/I/81R-fGWEKNL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "company": "Mylldey",
+      "color": "Navy"
+    },
+    {
+      "id": 4,
+      "title": "ANRABESS Womens Zip Up Hoodies Long Sleeve Oversized Sweatshirts Fleece Y2K Jacket Pockets 2024 Fall Outfits Fashion Clothes",
+      "price": 35.99,
+      "discount": 20,
+      "priceRange": "$10-$50",
+      "description": "Long Sleeve Women Pullover Sweatshirt/Solid Color/Lapel/Drawstring Collar/Half Zipper Sweatshirt/Kangaroo Pockets/Dropped Shoulder/Ribbed Hem And Cuffs/Loose Fit Style/Casual Tops For Women/Tunic Sweatshirts For Women.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.media-amazon.com/images/I/61OY5aR1aDL._AC_SY741_.jpg",
+        "https://m.media-amazon.com/images/I/71ie5vYvjrL._AC_SY741_.jpg",
+        "https://m.media-amazon.com/images/I/61MmNeQm7cL._AC_SY741_.jpg",
+        "https://m.media-amazon.com/images/I/71qFXzRMu0L._AC_SY741_.jpg",
+        "https://m.media-amazon.com/images/I/71z4Y7yznDL._AC_SY741_.jpg",
+        "https://m.media-amazon.com/images/I/71Zw4G+BaJL._AC_SY741_.jpg"
+      ],
+      "img": "https://m.media-amazon.com/images/I/61OY5aR1aDL._AC_SY741_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 1518
+      },
+      "prevPrice": "$40",
+      "company": "ANRABESS",
+      "color": "pink"
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 950,
+      "discount": 0,
+      "priceRange": "$500-$1000",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "Jewellery",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/chan-vay-nu-yody-CJN7019-DEN%20(1).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/chan-vay-nu-yody-CJN7019-DEN%20(1).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/chan-vay-nu-yody-CJN7019-DEN%20(1).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/chan-vay-nu-yody-CJN7019-DEN%20(1).jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 7
+      },
+      "company": "John Hardy",
+      "color": "silver"
+    },
+    {
+      "id": 6,
+      "title": "Hafeez Center 14K Solid Gold Petite Micropave Milgrain Eternity Ring Diamond Band Ring for Women and Girls",
+      "price": 168,
+      "discount": 0,
+      "priceRange": "$100-$500",
+      "description": "This wedding band is handmade with G-H Color, VVS1-VVS2, ideal cut melee moissanite.",
+      "category": "Jewellery",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-so-mi-nam-coc-tay-yody-SCM7125-XAH%20(5).JPG",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-so-mi-nam-coc-tay-yody-SCM7125-XAH%20(5).JPG",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-so-mi-nam-coc-tay-yody-SCM7125-XAH%20(5).JPG"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-so-mi-nam-coc-tay-yody-SCM7125-XAH%20(5).JPG",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      },
+      "prevPrice": "$140",
+      "company": "HAFEEZ CENTER",
+      "color": "gold"
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 29.99,
+      "discount": 10,
+      "priceRange": "$10-$50",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "Jewellery",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nu-yody-APN7218-HOG,%20QAN6046-DEN%20(4).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nu-yody-APN7218-HOG,%20QAN6046-DEN%20(4).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nu-yody-APN7218-HOG,%20QAN6046-DEN%20(4).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nu-yody-APN7218-HOG,%20QAN6046-DEN%20(4).jpg",
+      "rating": {
+        "rate": 3.1,
+        "count": 27
+      },
+      "prevPrice": "$32.50",
+      "company": "Sterling Silver",
+      "color": "silver"
+    },
+    {
+      "id": 8,
+      "title": " Rose Gold Plated Stainless SPierced Owlteel Double",
+      "price": 120.99,
+      "discount": 0,
+      "priceRange": "$100-$500",
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "Jewellery",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-DEN%20(2).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-DEN%20(2).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-DEN%20(2).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-DEN%20(2).jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 70
+      },
+      "prevPrice": "$140",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 9,
+      "title": "PUMA Women's Essentials Logo Fleece Hoodie",
+      "price": 19.99,
+      "discount": 20,
+      "priceRange": "$10-$50",
+      "description": "FOREVER BETTER: PUMA is constantly pushing to be better than we were yesterday. FOREVER BETTER is our commitment to reduce our environmental impact and work together towards a sustainable future. This garment is made with more sustainable cotton.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.media-amazon.com/images/I/71NlQiEZsgL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61mEYy9fohL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71qXj5XIn+L._AC_SX679_.jpg"
+      ],
+      "img": "https://m.media-amazon.com/images/I/71NlQiEZsgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 953
+      },
+      "prevPrice": "$25",
+      "company": "Puma",
+      "color": "black"
+    },
+    {
+      "id": 10,
+      "title": "Product fashion",
+      "price": 109,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Easy upgrade for faster boot-up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive. Based on published specifications and internal benchmarking tests using PCMark Vantage scores.)",
+      "category": "electronics",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product1.jpg",
+        "https://ah-theme.com/gstore/preview/img/product1.jpg",
+        "https://ah-theme.com/gstore/preview/img/product1.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product1.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      },
+      "prevPrice": "$140.00",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 11,
+      "title": "Hoodies",
+      "price": 109,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "3D NAND flash are applied to deliver high transfer speeds. Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan.",
+      "category": "electronics",
+      "images": [
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "data:image/jpeg;base64,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",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 12,
+      "title": "Product fashion",
+      "price": 114,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product4.jpg",
+        "https://ah-theme.com/gstore/preview/img/product4.jpg",
+        "https://ah-theme.com/gstore/preview/img/product4.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product4.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 460
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 13,
+      "title": "Product fashion",
+      "price": 599,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display. Radeon free Sync technology. Refresh Rate: 75Hz - Using HDMI port. Zero-frame design. Ultra-thin. 4ms response time. IPS panel. Aspect ratio - 16:9. Color Supported - 16.7 million colors. Brightness - 250 nit. Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree. 75 hertz",
+      "category": "electronics",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product5.jpg",
+        "https://ah-theme.com/gstore/preview/img/product5.jpg",
+        "https://ah-theme.com/gstore/preview/img/product5.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product5.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 14,
+      "title": "Product fashion",
+      "price": 999.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side. QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast. 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product6.jpg",
+        "https://ah-theme.com/gstore/preview/img/product6.jpg",
+        "https://ah-theme.com/gstore/preview/img/product6.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product6.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear. Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweight and Warm. Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys) and 1 Hidden Pocket Inside. Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water, for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "100% POLYURETHANE (shell) 100% POLYESTER(lining) 100% POLYESTER(hood). Hand Wash Only. Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket. Button detail on waist / Detail stitching at sides. Please check the size chart below to ensure your order / Color Disclaimer : Due to monitor settings, monitor pixel definitions, we cannot guarantee that the color you see on your screen as an exact color of the product. We strive to make our colors as accurate as possible. however, colors are approximations of actual colors",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 3.7,
+        "count": 130
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Lightweight perfect for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "Women's clothing",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product8.jpg",
+        "https://ah-theme.com/gstore/preview/img/product8.jpg",
+        "https://ah-theme.com/gstore/preview/img/product8.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product8.jpg",
+      "rating": {
+        "rate": 3.7,
+        "count": 130
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+      "price": 9.85,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "95% Rayon 5% Spandex. Lightweight fabric with great stretch for comfort. Ribbed on sleeves and neckline / Double stitching on bottom hem. Elastic shirring details at sides / Fit and flare fit. HAND WASH IN COLD WATER / DO NOT BLEACH / LAY FLAT TO DRY / DRY CLEAN IF NEEDED. Please check the size chart below to ensure your order / Color Disclaimer : Due to monitor settings, monitor pixel definitions, we cannot guarantee that the color you see on your screen as an exact color of the product. We strive to make our colors as accurate as possible. however, colors are approximations of actual colors",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 3.7,
+        "count": 130
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit. Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away. Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort. Posi Charge Technology Conducts Heat And Sweat Away and evaporates moisture from Your Body fast.",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.7,
+        "count": 130
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 21,
+      "title": "KiddyCare Baby Diapers",
+      "price": 19.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Keep your baby's skin dry and fresh with KiddyCare Baby Diapers. Made with soft, breathable materials, these diapers provide all-day comfort for your little one. Plus, the super-absorbent core locks away moisture to prevent leaks, so your baby can stay dry and happy.",
+      "category": "baby",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product9.jpg",
+        "https://ah-theme.com/gstore/preview/img/product9.jpg",
+        "https://ah-theme.com/gstore/preview/img/product9.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product9.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 130
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 22,
+      "title": "Leggings Depot High Waisted Leggings -Soft & Slim",
+      "price": 9.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "One of the internet's perennial favorites in terms of leggings is this simple, versatile pair from Leggings Depot. The brand promises a soft, slim feel with a high waistband for comfort and ease of movement. They come in a range of colors and patterns, making them perfect for everything from casual lounging to yoga class.",
+      "category": "baby",
+      "images": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 210
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 23,
+      "title": "Crocs Kids' Handle It Rain Boots | Waterproof Slip On Shoes | Kids' Rain Boots",
+      "price": 34.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Crocs Kids' Handle It Rain Boots are the perfect footwear for little adventurers. These waterproof slip-on shoes are designed to keep little feet dry and comfortable, whether they're splashing in puddles or playing in the rain. The easy-on handles make them simple for kids to pull on and off by themselves, and the durable treaded outsole provides traction on wet surfaces.",
+      "category": "baby",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product9.jpg",
+        "https://ah-theme.com/gstore/preview/img/product9.jpg",
+        "https://ah-theme.com/gstore/preview/img/product9.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product9.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 110
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 24,
+      "title": "PUMA Baby Boys' Tricot Track Jacket & Pant Set",
+      "price": 28.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Get your little one ready for action with the PUMA Baby Boys' Tricot Track Jacket & Pant Set. This two-piece set includes a zip-up track jacket and matching pants, both made from soft, breathable tricot fabric. The jacket features contrast stripes and the iconic PUMA logo for a sporty look, while the pants have an elastic waistband for a snug, comfortable fit.",
+      "category": "baby",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product10.jpg",
+        "https://ah-theme.com/gstore/preview/img/product10.jpg",
+        "https://ah-theme.com/gstore/preview/img/product10.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product10.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 75
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 25,
+      "title": "New Balance Kids' 888 V2 Hook and Loop Running Shoe",
+      "price": 39.95,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "The New Balance Kids' 888 V2 Hook and Loop Running Shoe are designed to keep up with active kids. Featuring a lightweight, breathable upper, cushioned midsole, and durable rubber outsole, these shoes provide comfort and support for all-day wear. Plus, the hook and loop closure makes them easy to put on and take off, so your little one can hit the ground running.",
+      "category": "baby",
+      "images": [
+        "https://ah-theme.com/gstore/preview/img/product11.jpg",
+        "https://ah-theme.com/gstore/preview/img/product11.jpg",
+        "https://ah-theme.com/gstore/preview/img/product11.jpg"
+      ],
+      "img": "https://ah-theme.com/gstore/preview/img/product11.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 60
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 26,
+      "title": "Naturalizer Women's Kelsey Platform Loafer",
+      "price": 89.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Step up your style game with the Naturalizer Women's Kelsey Platform Loafer. Made from premium leather, these sleek loafers feature a platform sole for added height and a modern look. The cushioned insole provides all-day comfort, while the slip-on design makes them easy to wear. Pair them with jeans for a casual weekend outfit or dress them up with trousers for the office.",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 95
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 27,
+      "title": "Naturalizer Women's Saban Slip-On Loafer",
+      "price": 49.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Add a touch of sophistication to any outfit with the Naturalizer Women's Saban Slip-On Loafer. These classic loafers feature a leather upper with a round toe and stitched detailing for a timeless look. The cushioned insole provides all-day comfort, while the flexible sole ensures traction and stability. Wear them with jeans for a casual weekend look or pair them with trousers for the office.",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 110
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 28,
+      "title": "DREAM PAIRS Women's Sole_Stretchy Fashion Elastic Ankle Straps Flats Shoes",
+      "price": 16.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Designed with a low-top, lace-up silhouette, this pair of DREAM PAIRS Women's Sole_Stretchy Fashion Elastic Ankle Straps Flats Shoes features a round toe, cushioned insole, and flexible outsole. The elastic ankle straps add a stylish touch and make these shoes easy to slip on and off. Pair them with jeans for a casual look or dress them up with a skirt or dress for a night out.",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 75
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 29,
+      "title": "Naturalizer Women's Banks Pump",
+      "price": 59.99,
+      "discount": 0,
+      "priceRange": "$10-$50",
+      "description": "Elevate your look with the Naturalizer Women's Banks Pump. This classic pump features a leather upper with a rounded toe and a chunky block heel for added height and stability. The cushioned insole provides all-day comfort, while the flexible sole ensures traction and support. Pair them with a dress for a night out or wear them with trousers for the office.",
+      "category": "Women's clothing",
+      "images": [
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+      ],
+      "img": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 85
+      },
+      "prevPrice": "$140.00",
+      "newPrice": "150",
+      "company": "Nike",
+      "color": "red"
+    },
+    {
+      "id": 30,
+      "title": "Men's Casual Chino Pants",
+      "price": 35.00,
+      "discount": 15,
+      "prevPrice": "$40.00",
+      "priceRange": "$10-$50",
+      "description": "Comfortable and versatile chino pants for men, perfect for everyday wear.",
+      "category": "Men's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-nam-SKM7003-NAV%20(1).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-nam-SKM7003-NAV%20(1).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-nam-SKM7003-NAV%20(1).jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 650
+      },
+      "company": "GAP",
+      "color": "beige"
+    },
+    {
+      "id": 31,
+      "title": "Men's Lightweight Puffer Jacket",
+      "price": 69.99,
+      "discount": 30,
+      "prevPrice": "$100",
+      "priceRange": "$50-$100",
+      "description": "Lightweight and warm puffer jacket for men, suitable for all casual occasions.",
+      "category": "Men's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-TRA%20SJN7026-XDM%20(5).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-TRA%20SJN7026-XDM%20(5).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-TRA%20SJN7026-XDM%20(5).jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 870
+      },
+      "company": "Uniqlo",
+      "color": "navy"
+    },
+    {
+      "id": 32,
+      "title": "Women's Classic Turtleneck Sweater",
+      "price": 34.99,
+      "discount": 15,
+      "prevPrice": "$40",
+      "priceRange": "$10-$50",
+      "description": "Soft, high-quality turtleneck sweater for women, perfect for layering in winter.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-nu-yody-SKN7002-DEN%20SJN7014-XDM%20(5).JPG",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-nu-yody-SKN7002-DEN%20SJN7014-XDM%20(5).JPG"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-nu-yody-SKN7002-DEN%20SJN7014-XDM%20(5).JPG",
+      "rating": {
+        "rate": 4.9,
+        "count": 520
+      },
+      "company": "GAP",
+      "color": "grey"
+    },
+    {
+      "id": 33,
+      "title": "Women's Maxi Dress",
+      "price": 39.99,
+      "discount": 10,
+      "prevPrice": "$45.00",
+      "priceRange": "$10-$50",
+      "description": "Elegant and comfortable maxi dress, perfect for both casual and formal occasions.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-gio-nam-the-thao-yody-SKM7005-DEN-1.JPG",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-gio-nam-the-thao-yody-SKM7005-DEN-1.JPG"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-gio-nam-the-thao-yody-SKM7005-DEN-1.JPG",
+      "rating": {
+        "rate": 4.3,
+        "count": 210
+      },
+      "company": "Zara",
+      "color": "red"
+    },
+    {
+      "id": 34,
+      "title": "Men's Slim Fit T-Shirt",
+      "price": 19.99,
+      "discount": 5,
+      "prevPrice": "$21.00",
+      "priceRange": "$10-$50",
+      "description": "Soft and breathable slim fit t-shirt for men. Made with organic cotton.",
+      "category": "Men's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/PHM7009-REU,%20ATM7004-DEN%20(3).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/PHM7009-REU,%20ATM7004-DEN%20(3).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/PHM7009-REU,%20ATM7004-DEN%20(3).jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 350
+      },
+      "company": "H&M",
+      "color": "white"
+    },
+    {
+      "id": 35,
+      "title": "Women's High-Waist Yoga Pants",
+      "price": 29.99,
+      "discount": 0,
+      "prevPrice": "$35.00",
+      "priceRange": "$10-$50",
+      "description": "High-waist yoga pants with four-way stretch. Ideal for yoga, gym, or casual wear.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-thun-nu-TSN7301-DEN%20(10).JPG",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-thun-nu-TSN7301-DEN%20(10).JPG"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-thun-nu-TSN7301-DEN%20(10).JPG",
+      "rating": {
+        "rate": 4.8,
+        "count": 600
+      },
+      "company": "Lululemon",
+      "color": "black"
+    },
+    {
+      "id": 36,
+      "title": "Men's Fleece Joggers",
+      "price": 25.99,
+      "discount": 10,
+      "prevPrice": "$29.00",
+      "priceRange": "$10-$50",
+      "description": "Comfortable fleece joggers with adjustable drawstring, perfect for workouts or lounging.",
+      "category": "Men's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/quan-jeans-nu-QJN7057-XNH%20(1).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/quan-jeans-nu-QJN7057-XNH%20(1).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/quan-jeans-nu-QJN7057-XNH%20(1).jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 400
+      },
+      "company": "Nike",
+      "color": "grey"
+    },
+    {
+      "id": 37,
+      "title": "Women's Solid Short Sleeve Boat Neck Top",
+      "price": 9.85,
+      "discount": 0,
+      "prevPrice": "$15.00",
+      "priceRange": "$10-$50",
+      "description": "Lightweight and soft short sleeve top, perfect for summer.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-phao-nam-PHM7005-XAG%20(1).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-phao-nam-PHM7005-XAG%20(1).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-phao-nam-PHM7005-XAG%20(1).jpg",
+      "rating": {
+        "rate": 3.7,
+        "count": 300
+      },
+      "company": "Uniqlo",
+      "color": "navy"
+    },
+    {
+      "id": 38,
+      "title": "Opna Women's Moisture-Wicking T-Shirt",
+      "price": 7.95,
+      "discount": 0,
+      "prevPrice": "$10.00",
+      "priceRange": "$10-$50",
+      "description": "Breathable and lightweight t-shirt, ideal for workouts or casual wear.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nam-APM7329-GHI%20(10).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nam-APM7329-GHI%20(10).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nam-APM7329-GHI%20(10).jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 270
+      },
+      "company": "Opna",
+      "color": "pink"
+    },
+    {
+      "id": 39,
+      "title": "Men's Classic Denim Jacket",
+      "price": 59.99,
+      "discount": 20,
+      "prevPrice": "$75.00",
+      "priceRange": "$50-$100",
+      "description": "Classic denim jacket with a timeless design, perfect for layering in all seasons.",
+      "category": "Men's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nam-ALM7007-TIT%20(1).jpg",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nam-ALM7007-TIT%20(1).jpg"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nam-ALM7007-TIT%20(1).jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 890
+      },
+      "company": "Levi's",
+      "color": "blue"
+    },
+    {
+      "id": 40,
+      "title": "Women's Lightweight Down Vest",
+      "price": 39.99,
+      "discount": 5,
+      "prevPrice": "$42.00",
+      "priceRange": "$10-$50",
+      "description": "Warm and packable down vest, ideal for layering in cold weather.",
+      "category": "Women's clothing",
+      "images": [
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-jeans-nu-yody-KJN7005-XTU%20(9).JPG",
+        "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-jeans-nu-yody-KJN7005-XTU%20(9).JPG"
+      ],
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-jeans-nu-yody-KJN7005-XTU%20(9).JPG",
+      "rating": {
+        "rate": 4.8,
+        "count": 760
+      },
+      "company": "Uniqlo",
+      "color": "black"
+    }
+  ]
+}
