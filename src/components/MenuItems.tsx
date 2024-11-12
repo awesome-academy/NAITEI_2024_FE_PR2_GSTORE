@@ -10,7 +10,7 @@ const MenuItems: React.FC<MenuItemsProps> = ({ mobile }) => {
   const location = useLocation()
   const menuLinks = [
     { label: t('home'), href: '/' },
-    { label: 'Men', href: '/men' },
+    { label: 'Men', href: '/products' },
     { label: 'Women', href: '/women' },
     { label: t('about'), href: '/about' },
     { label: t('contact'), href: '/contact' }
