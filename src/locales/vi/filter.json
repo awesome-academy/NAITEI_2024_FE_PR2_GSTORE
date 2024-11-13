@@ -1,0 +1,18 @@
+{
+  "filter": {
+    "title": "Bộ Lọc",
+    "clear-filter": "Xóa Bộ Lọc",
+    "search-products": "Tìm kiếm sản phẩm...",
+    "filter-price": "Lọc theo giá",
+    "category": "Danh Mục",
+    "all": "All",
+    "company": "Công Ty",
+    "rating": "Đánh Giá",
+    "sort": "Sắp Xếp Mặc Định",
+    "sort-option1": "Giá Từ Cao Đến Thấp",
+    "sort-option2": "Giá Từ Thấp Đến Cao",
+    "page-option1": "16 Sản Phẩm",
+    "page-option2": "32 Sản Phẩm",
+    "page-option3": "64 Sản Phẩm"
+  }
+}
