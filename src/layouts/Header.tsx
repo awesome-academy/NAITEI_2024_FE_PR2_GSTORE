@@ -13,25 +13,24 @@ const Header = () => {
   }
 
   return (
-    <header className='bg-black p-3 text-white relative'>
-      <div className='mx-auto px-4 w-full max-w-screen-xl'>
-        <nav className='flex items-center justify-between py-2 px-4'>
+    <header className='relative bg-black p-3 text-white'>
+      <div className='mx-auto w-full max-w-screen-xl px-4'>
+        <nav className='flex items-center justify-between px-4 py-2'>
           <Link to='/' aria-label='Home'>
             <img
               src={logo}
               alt='logo'
-              className='max-h-20 max-w-[150px] hover:opacity-80 transition-opacity duration-300'
+              className='max-h-20 max-w-[150px] transition-opacity duration-300 hover:opacity-80'
             />
           </Link>
-          <button className='md:hidden text-white p-2' onClick={toggleMenu} aria-label='Toggle menu'>
+          <button className='p-2 text-white md:hidden' onClick={toggleMenu} aria-label='Toggle menu'>
             {menuOpen ? <FaTimes className='h-6 w-6' /> : <FaBars className='h-6 w-6' />}
           </button>
           <div
             className={`${
               menuOpen ? 'block' : 'hidden'
-            } md:hidden absolute top-full left-0 w-full bg-black z-20 pt-3 transition-all duration-300`}
+            } absolute left-0 top-full z-20 w-full bg-black pt-3 transition-all duration-300 md:hidden`}
           >
-            {/* Container cho MenuItems và UserMenu để căn chỉnh tốt hơn */}
             <div className='flex flex-col items-center space-y-4'>
               <MenuItems mobile={true} />
               <UserMenu mobile={true} />

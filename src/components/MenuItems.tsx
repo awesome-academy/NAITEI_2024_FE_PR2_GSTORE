@@ -19,15 +19,15 @@ const MenuItems: React.FC<MenuItemsProps> = ({ mobile }) => {
   return (
     <ul
       className={`${
-        mobile ? 'flex flex-col items-center space-y-4 p-4 bg-black text-white' : 'md:flex hidden space-x-6'
+        mobile ? 'flex flex-col items-center space-y-4 bg-black p-4 text-white' : 'hidden space-x-6 md:flex'
       } text-sm font-medium`}
     >
       {menuLinks.map((link) => (
         <li key={link.label} className={`${mobile ? 'w-full text-center' : ''}`}>
           <Link
             to={link.href}
-            className={`p-2 block transition-colors duration-300 ${
-              location.pathname === link.href ? 'text-amber-500 font-semibold' : 'hover:text-amber-500'
+            className={`block p-2 transition-colors duration-300 ${
+              location.pathname === link.href ? 'font-semibold text-amber-500' : 'hover:text-amber-500'
             }`}
           >
             {link.label}

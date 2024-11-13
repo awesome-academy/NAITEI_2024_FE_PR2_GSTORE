@@ -21,24 +21,24 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ onLanguageChange })
   }
 
   return (
-    <div className='relative ml-4'>
+    <div className='relative z-10 ml-4'>
       <button
         onClick={toggleDropdown}
-        className='p-1 rounded transition duration-300 focus:outline-none bg-gray-700 hover:bg-gray-600'
+        className='rounded bg-gray-700 p-1 transition duration-300 hover:bg-gray-600 focus:outline-none'
         aria-label='Toggle language menu'
       >
         <img
           src={`/src/assets/images/${activeLanguage === 'en' ? 'Flag_of_the_United_Kingdom_(3-5).svg' : 'Flag_of_Vietnam.svg'}`}
           alt={activeLanguage === 'en' ? 'English' : 'Vietnamese'}
-          className='h-6 w-8 object-cover rounded'
+          className='h-6 w-8 rounded object-cover'
         />
       </button>
 
       {isOpen && (
-        <div className='absolute mt-2 md:w-40 w-auto bg-white rounded shadow-lg border border-gray-300'>
+        <div className='absolute mt-2 w-auto rounded border border-gray-300 bg-white shadow-lg md:w-40'>
           <button
             onClick={() => handleLanguageChange('en')}
-            className={`flex items-center w-full p-2 hover:bg-gray-100 transition-colors rounded-t ${
+            className={`flex w-full items-center rounded-t p-2 transition-colors hover:bg-gray-100 ${
               activeLanguage === 'en' ? 'bg-gray-200' : ''
             }`}
             aria-label='Change language to English'
@@ -46,13 +46,13 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ onLanguageChange })
             <img
               src='/src/assets/images/Flag_of_the_United_Kingdom_(3-5).svg'
               alt='English'
-              className='h-5 w-7 object-cover rounded mr-2'
+              className='mr-2 h-5 w-7 rounded object-cover'
             />
-            <span className='text-sm text-gray-800 hidden md:block'>{t('language.en')}</span>
+            <span className='hidden text-sm text-gray-800 md:block'>{t('language.en')}</span>
           </button>
           <button
             onClick={() => handleLanguageChange('vi')}
-            className={`flex items-center w-full p-2 hover:bg-gray-100 transition-colors rounded-b ${
+            className={`flex w-full items-center rounded-b p-2 transition-colors hover:bg-gray-100 ${
               activeLanguage === 'vi' ? 'bg-gray-200' : ''
             }`}
             aria-label='Change language to Vietnamese'
@@ -60,9 +60,9 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ onLanguageChange })
             <img
               src='/src/assets/images/Flag_of_Vietnam.svg'
               alt='Vietnamese'
-              className='h-5 w-7 object-cover rounded mr-2'
+              className='mr-2 h-5 w-7 rounded object-cover'
             />
-            <span className='text-sm text-gray-800 hidden md:block'>{t('language.vi')}</span>
+            <span className='hidden text-sm text-gray-800 md:block'>{t('language.vi')}</span>
           </button>
         </div>
       )}

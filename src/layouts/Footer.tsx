@@ -9,19 +9,19 @@ const Footer = () => {
   return (
     <footer className='text-white'>
       <div className='bg-gray-900 py-16'>
-        <div className='mx-auto px-4 w-full max-w-screen-xl'>
+        <div className='mx-auto w-full max-w-screen-xl px-4'>
           <ul className='flex flex-row flex-wrap'>
-            <li className='md:basis-1/4 basis-full px-[15px]'>
-              <h2 className='relative pb-4 text-white hover:text-[#e3a51e] transition-colors duration-300 before:content-[""] before:absolute before:left-0 before:bottom-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 hover:before:w-full'>
+            <li className='basis-full px-[15px] md:basis-1/4'>
+              <h2 className='relative pb-4 text-white transition-colors duration-300 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 before:content-[""] hover:text-[#e3a51e] hover:before:w-full'>
                 {t('about_the_store')}
               </h2>
-              <p className='text-xs my-[15px]'>{t('description')}</p>
+              <p className='my-[15px] text-xs'>{t('description')}</p>
             </li>
-            <li className='md:basis-1/4 basis-full px-[15px]'>
-              <h2 className='relative pb-4 text-white hover:text-[#e3a51e] transition-colors duration-300 before:content-[""] before:absolute before:left-0 before:bottom-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 hover:before:w-full'>
+            <li className='basis-full px-[15px] md:basis-1/4'>
+              <h2 className='relative pb-4 text-white transition-colors duration-300 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 before:content-[""] hover:text-[#e3a51e] hover:before:w-full'>
                 {t('help_&_contact.title')}
               </h2>
-              <ul className='text-xs my-[15px]'>
+              <ul className='my-[15px] text-xs'>
                 {(
                   [
                     'help_&_contact.all_help_topics',
@@ -33,18 +33,18 @@ const Footer = () => {
                 ).map((key, index) => (
                   <li
                     key={index}
-                    className='mb-[7.5px] hover:text-[#e3a51e] p-1 transition-all duration-300 cursor-pointer'
+                    className='mb-[7.5px] cursor-pointer p-1 transition-all duration-300 hover:text-[#e3a51e]'
                   >
                     {t(key)}
                   </li>
                 ))}
               </ul>
             </li>
-            <li className='md:basis-1/4 basis-full px-[15px]'>
-              <h2 className='relative pb-4 text-white hover:text-[#e3a51e] transition-colors duration-300 before:content-[""] before:absolute before:left-0 before:bottom-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 hover:before:w-full'>
+            <li className='basis-full px-[15px] md:basis-1/4'>
+              <h2 className='relative pb-4 text-white transition-colors duration-300 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 before:content-[""] hover:text-[#e3a51e] hover:before:w-full'>
                 {t('easy_online_shopping.title')}
               </h2>
-              <ul className='text-xs my-[15px]'>
+              <ul className='my-[15px] text-xs'>
                 {(
                   [
                     'easy_online_shopping.free_delivery',
@@ -55,18 +55,18 @@ const Footer = () => {
                 ).map((key, index) => (
                   <li
                     key={index}
-                    className='mb-[7.5px] hover:text-[#e3a51e] p-1 transition-all duration-300 cursor-pointer'
+                    className='mb-[7.5px] cursor-pointer p-1 transition-all duration-300 hover:text-[#e3a51e]'
                   >
                     {t(key)}
                   </li>
                 ))}
               </ul>
             </li>
-            <li className='md:basis-1/4 basis-full px-[15px]'>
-              <h2 className='relative pb-4 text-white hover:text-[#e3a51e] transition-colors duration-300 before:content-[""] before:absolute before:left-0 before:bottom-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 hover:before:w-full'>
+            <li className='basis-full px-[15px] md:basis-1/4'>
+              <h2 className='relative pb-4 text-white transition-colors duration-300 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-[9%] before:bg-[#e3a51e] before:transition-all before:duration-300 before:content-[""] hover:text-[#e3a51e] hover:before:w-full'>
                 {t('payment_methods')}
               </h2>
-              <ul className='flex mt-[15px]'>
+              <ul className='mt-[15px] flex'>
                 <li className='mr-[15px]'>
                   <FaCcVisa size={45} />
                 </li>
@@ -82,20 +82,20 @@ const Footer = () => {
         </div>
       </div>
       <div className='bg-black py-3'>
-        <div className='mx-auto px-4 w-full max-w-screen-xl'>
-          <ul className='flex justify-between px-[15px] flex-nowrap'>
+        <div className='mx-auto w-full max-w-screen-xl px-4'>
+          <ul className='flex flex-nowrap justify-between px-[15px]'>
             <li>
               <small>{t('copy_right')}</small>
             </li>
             <li>
               <ul className='flex'>
-                <li className='mr-4 hover:bg-[#1877F2] transition-colors duration-300 cursor-pointer p-1'>
+                <li className='mr-4 cursor-pointer p-1 transition-colors duration-300 hover:bg-[#1877F2]'>
                   <TiSocialFacebook size={20} className='text-[white]' />
                 </li>
-                <li className='mr-4 hover:bg-[#E1306C] transition-colors duration-300 cursor-pointer p-1'>
+                <li className='mr-4 cursor-pointer p-1 transition-colors duration-300 hover:bg-[#E1306C]'>
                   <FaInstagram size={20} className='text-white' />
                 </li>
-                <li className='hover:bg-[#1DA1F2] transition-colors duration-300 cursor-pointer p-1'>
+                <li className='cursor-pointer p-1 transition-colors duration-300 hover:bg-[#1DA1F2]'>
                   <FaTwitter size={20} className='text-white' />
                 </li>
               </ul>

@@ -8,19 +8,23 @@ import FILTER_EN from '../locales/en/filter.json'
 import FILTER_VI from '../locales/vi/filter.json'
 import PRODUCT_EN from '../locales/en/product.json'
 import PRODUCT_VI from '../locales/vi/product.json'
+import HOME_VI from '../locales/vi/home.json'
+import HOME_EN from '../locales/en/home.json'
 
 export const resources = {
   en: {
     header: HEADER_EN,
     footer: FOOTER_EN,
     filter: FILTER_EN,
-    product: PRODUCT_EN
+    product: PRODUCT_EN,
+    home: HOME_EN
   },
   vi: {
     header: HEADER_VI,
     footer: FOOTER_VI,
     filter: FILTER_VI,
-    product: PRODUCT_VI
+    product: PRODUCT_VI,
+    home: HOME_VI
   }
 }
 

@@ -16,25 +16,25 @@ const UserMenu: React.FC<UserMenuProps> = ({ mobile }) => {
   }
 
   return (
-    <div className={`${mobile ? 'flex ' : 'hidden md:flex '}items-center`}>
+    <div className={`${mobile ? 'flex' : 'hidden md:flex '} items-center`}>
       <Link
         to='/login'
-        className='flex flex-col items-center border-r-2 border-gray-600 pr-4 hover:border-gray-400 transition-all duration-300'
+        className='flex flex-col items-center border-r-2 border-gray-600 pr-4 transition-all duration-300 hover:border-gray-400'
       >
-        <FaUser className='h-5 w-5 mb-1 hover:scale-110 transition-transform duration-300 hover:text-blue-400' />
+        <FaUser className='mb-1 h-5 w-5 transition-transform duration-300 hover:scale-110 hover:text-blue-400' />
         <small className='text-xs text-gray-400 transition-colors duration-300 hover:text-blue-400'>{t('login')}</small>
       </Link>
       <Link
         to='/wishlist'
-        className='flex flex-col items-center border-r-2 border-gray-600 px-4 hover:border-gray-400 transition-all duration-300'
+        className='flex flex-col items-center border-r-2 border-gray-600 px-4 transition-all duration-300 hover:border-gray-400'
       >
-        <FaHeart className='h-5 w-5 mb-1 hover:scale-110 transition-transform duration-300 hover:text-red-500' />
+        <FaHeart className='mb-1 h-5 w-5 transition-transform duration-300 hover:scale-110 hover:text-red-500' />
         <small className='text-xs text-gray-400 transition-colors duration-300 hover:text-red-500'>
           {t('wish_list')}
         </small>
       </Link>
-      <Link to='/cart' className='flex flex-col items-center px-4 hover:border-gray-400 transition-all duration-300'>
-        <FaShoppingCart className='h-5 w-5 mb-1 hover:scale-110 transition-transform duration-300 hover:text-yellow-400' />
+      <Link to='/cart' className='flex flex-col items-center px-4 transition-all duration-300 hover:border-gray-400'>
+        <FaShoppingCart className='mb-1 h-5 w-5 transition-transform duration-300 hover:scale-110 hover:text-yellow-400' />
         <small className='text-xs text-gray-400 transition-colors duration-300 hover:text-yellow-400'>
           {t('my_cart')}
         </small>
