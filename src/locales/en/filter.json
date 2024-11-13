@@ -1,0 +1,18 @@
+{
+  "filter": {
+    "title": "Filter",
+    "clear-filter": "Clear Filter",
+    "search-products": "Search Products...",
+    "filter-price": "Filter By Price",
+    "category": "Category",
+    "all": "All",
+    "company": "Company",
+    "rating": "Rating",
+    "sort": "Sort By Default",
+    "sort-option1": "Price ascending",
+    "sort-option2": "Price descending",
+    "page-option1": "16 hits per page",
+    "page-option2": "32 hits per page",
+    "page-option3": "64 hits per page"
+  }
+}

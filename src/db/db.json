@@ -86,7 +86,7 @@
       ],
       "img": "https://m.media-amazon.com/images/I/61OY5aR1aDL._AC_SY741_.jpg",
       "rating": {
-        "rate": 4.4,
+        "rate": 5,
         "count": 1518
       },
       "prevPrice": "$40",
@@ -108,7 +108,7 @@
       ],
       "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/chan-vay-nu-yody-CJN7019-DEN%20(1).jpg",
       "rating": {
-        "rate": 3.9,
+        "rate": 5,
         "count": 7
       },
       "company": "John Hardy",
@@ -129,7 +129,7 @@
       ],
       "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-so-mi-nam-coc-tay-yody-SCM7125-XAH%20(5).JPG",
       "rating": {
-        "rate": 3.9,
+        "rate": 5,
         "count": 70
       },
       "prevPrice": "$140",
@@ -209,7 +209,7 @@
       "discount": 0,
       "priceRange": "$10-$50",
       "description": "Easy upgrade for faster boot-up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive. Based on published specifications and internal benchmarking tests using PCMark Vantage scores.)",
-      "category": "electronics",
+      "category": "Coats & Jackets",
       "images": [
         "https://ah-theme.com/gstore/preview/img/product1.jpg",
         "https://ah-theme.com/gstore/preview/img/product1.jpg",
@@ -231,7 +231,7 @@
       "discount": 0,
       "priceRange": "$10-$50",
       "description": "3D NAND flash are applied to deliver high transfer speeds. Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan.",
-      "category": "electronics",
+      "category": "T-Shirts",
       "images": [
         "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
         "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
@@ -254,7 +254,7 @@
       "discount": 0,
       "priceRange": "$10-$50",
       "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-      "category": "electronics",
+      "category": "T-Shirts",
       "images": [
         "https://ah-theme.com/gstore/preview/img/product4.jpg",
         "https://ah-theme.com/gstore/preview/img/product4.jpg",
@@ -277,7 +277,7 @@
       "discount": 0,
       "priceRange": "$10-$50",
       "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display. Radeon free Sync technology. Refresh Rate: 75Hz - Using HDMI port. Zero-frame design. Ultra-thin. 4ms response time. IPS panel. Aspect ratio - 16:9. Color Supported - 16.7 million colors. Brightness - 250 nit. Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree. 75 hertz",
-      "category": "electronics",
+      "category": "T-Shirts",
       "images": [
         "https://ah-theme.com/gstore/preview/img/product5.jpg",
         "https://ah-theme.com/gstore/preview/img/product5.jpg",
@@ -300,7 +300,7 @@
       "discount": 0,
       "priceRange": "$10-$50",
       "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side. QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast. 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-      "category": "electronics",
+      "category": "Sweaters",
       "images": [
         "https://ah-theme.com/gstore/preview/img/product6.jpg",
         "https://ah-theme.com/gstore/preview/img/product6.jpg",
@@ -415,7 +415,7 @@
       "discount": 0,
       "priceRange": "$10-$50",
       "description": "100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit. Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away. Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort. Posi Charge Technology Conducts Heat And Sweat Away and evaporates moisture from Your Body fast.",
-      "category": "Women's clothing",
+      "category": "Sweaters",
       "images": [
         "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
         "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
@@ -622,7 +622,7 @@
       "discount": 0,
       "priceRange": "$10-$50",
       "description": "Elevate your look with the Naturalizer Women's Banks Pump. This classic pump features a leather upper with a rounded toe and a chunky block heel for added height and stability. The cushioned insole provides all-day comfort, while the flexible sole ensures traction and support. Pair them with a dress for a night out or wear them with trousers for the office.",
-      "category": "Women's clothing",
+      "category": "Footwear",
       "images": [
         "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
         "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
