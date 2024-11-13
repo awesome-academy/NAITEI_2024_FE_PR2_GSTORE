@@ -869,5 +869,28 @@
       "company": "Uniqlo",
       "color": "black"
     }
+  ],
+  "slides": [
+    {
+      "id": 1,
+      "title": "Summer<br>Collection",
+      "subTitle": "New Amazing Prices",
+      "description": "Discover our Summer Collection with amazing deals. Elevate your style and stay cool all season long. Don’t miss out—shop now and refresh your wardrobe!",
+      "backgroundImage": "/src/assets/images/slider1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "New<br>Collection",
+      "subTitle": "Spring & Summer",
+      "description": "Introducing our new Spring & Summer Collection. Find the perfect outfit for any occasion. Shop now and enjoy free shipping on all orders over $100.",
+      "backgroundImage": "/src/assets/images/slider2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "New Offers 50%",
+      "subTitle": "Brand New Collection",
+      "description": "Get ready for the new season with our latest collection. Enjoy up to 50% off on selected items. Shop now and elevate your style with our trendy pieces.",
+      "backgroundImage": "/src/assets/images/slider3.jpg"
+    }
   ]
 }
