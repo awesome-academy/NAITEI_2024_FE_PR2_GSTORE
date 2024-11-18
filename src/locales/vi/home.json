@@ -1,5 +1,29 @@
 {
   "slider": {
     "shop_now": "Mua ngay"
+  },
+  "new_arrivals": {
+    "title": "Hàng mới về",
+    "description": "Khám phá những sản phẩm mới nhất của chúng tôi và khám phá những phong cách mới nhất để nâng tầm tủ đồ của bạn trong mùa này."
+  },
+  "top_products": {
+    "title": "Sản phẩm hàng đầu",
+    "description": "Khám phá những sản phẩm hàng đầu của chúng tôi và tìm kiếm món đồ hoàn hảo cho bạn."
+  },
+  "banner": {
+    "title": "Mega Sale",
+    "description": "Giảm giá lên đến 70% trên tất cả các sản phẩm"
+  },
+  "review": {
+    "title": "Đánh giá của khách hàng",
+    "description": "Những gì khách hàng của chúng tôi nói về chúng tôi"
+  },
+  "free_shipping": {
+    "title": "Miễn phí vận chuyển trên toàn thế giới"
+  },
+  "news": {
+    "title": "Tin tức mới nhất",
+    "description": "Nhận tin tức mới nhất từ blog của chúng tôi",
+    "read_more": "Đọc thêm"
   }
 }

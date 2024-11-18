@@ -892,5 +892,197 @@
       "description": "Get ready for the new season with our latest collection. Enjoy up to 50% off on selected items. Shop now and elevate your style with our trendy pieces.",
       "backgroundImage": "/src/assets/images/slider3.jpg"
     }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "rating": 5,
+      "date": "2021-06-15",
+      "avatar": "/src/assets/images/client1.jpg",
+      "comment": "Great product! I love the quality and the fit. Will definitely buy again."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "rating": 4,
+      "avatar": "/src/assets/images/client2.jpg",
+      "date": "2021-06-10",
+      "comment": "Nice product. The fabric is soft and comfortable. I would recommend it to others."
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "rating": 5,
+      "avatar": "/src/assets/images/client3.jpg",
+      "date": "2021-06-05",
+      "comment": "Excellent product! The color is beautiful and the fit is perfect. I'm very happy with my purchase."
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "rating": 4,
+      "avatar": "/src/assets/images/client4.jpg",
+      "date": "2021-06-01",
+      "comment": "Good product. The quality is good and the price is reasonable. I would buy it again."
+    },
+    {
+      "id": 5,
+      "name": "Mary Davis",
+      "rating": 5,
+      "avatar": "/src/assets/images/client5.jpg",
+      "date": "2021-05-25",
+      "comment": "Great product! I love the design and the color. It fits perfectly and is very comfortable."
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "rating": 4,
+      "avatar": "/src/assets/images/client6.jpg",
+      "date": "2021-05-20",
+      "comment": "Nice product. The fabric is soft and the fit is good. I would recommend it to others."
+    },
+    {
+      "id": 7,
+      "name": "Sarah Miller",
+      "rating": 5,
+      "avatar": "/src/assets/images/client7.jpg",
+      "date": "2021-05-15",
+      "comment": "Excellent product! The quality is great and the price is very affordable. I'm very satisfied with my purchase."
+    },
+    {
+      "id": 8,
+      "name": "James Taylor",
+      "rating": 4,
+      "avatar": "/src/assets/images/client8.jpg",
+      "date": "2021-05-10",
+      "comment": "Good product. The design is nice and the color is beautiful. I would buy it again."
+    },
+    {
+      "id": 9,
+      "name": "Laura Thomas",
+      "rating": 5,
+      "avatar": "/src/assets/images/client9.jpg",
+      "date": "2021-05-05",
+      "comment": "Great product! I love the fit and the fabric. It's very comfortable and looks great on me."
+    },
+    {
+      "id": 10,
+      "name": "Michael Harris",
+      "rating": 4,
+      "avatar": "/src/assets/images/client10.jpg",
+      "date": "2021-05-01",
+      "comment": "Nice product. The quality is good and the price is reasonable. I would recommend it to others."
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Winter Sale - Up to 50% Off!",
+      "description": "This winter, get up to 50% off on all jackets, sweaters, and winter boots. Don't miss out on the best deals to stay warm and stylish!",
+      "image": "/src/assets/images/news1.jpg",
+      "date": "2024-11-15",
+      "author": "Fashion Hub",
+      "category": "Promotion"
+    },
+    {
+      "id": 2,
+      "title": "New Collection: Summer Swimwear 2024",
+      "description": "We're excited to unveil our 2024 summer swimwear collection. Featuring fresh designs and vibrant colors, these swimsuits are perfect for your beach getaway.",
+      "image": "/src/assets/images/news2.jpg",
+      "date": "2024-11-12",
+      "author": "Fashion Hub",
+      "category": "New Arrivals"
+    },
+    {
+      "id": 3,
+      "title": "How to Style Office Outfits for Fall",
+      "description": "Get ready for the fall season with our top tips for styling office outfits. From chic blouses to cozy blazers, discover how to mix and match pieces to create the perfect work wardrobe.",
+      "image": "/src/assets/images/news3.jpg",
+      "date": "2024-10-25",
+      "author": "Fashion Tips",
+      "category": "Style Guide"
+    },
+    {
+      "id": 4,
+      "title": "End of Year Fashion Festival: Top Trends to Watch",
+      "description": "The end-of-year fashion festival is almost here! Discover the top trends that will define the upcoming season, from bold prints to elegant evening wear.",
+      "image": "/src/assets/images/news4.jpg",
+      "date": "2024-11-05",
+      "author": "Fashion Insider",
+      "category": "Events"
+    },
+    {
+      "id": 5,
+      "title": "How to Care for Your Leather Boots During the Rainy Season",
+      "description": "Leather boots require special care, especially during the rainy season. Learn how to properly protect and maintain your boots so they last longer and stay looking great.",
+      "image": "/src/assets/images/news5.jpg",
+      "date": "2024-10-30",
+      "author": "Fashion Care",
+      "category": "Tips & Tricks"
+    },
+    {
+      "id": 6,
+      "title": "Sneaker Culture: The Rise of Limited-Edition Kicks",
+      "description": "Sneakerheads are constantly on the lookout for the next big release. This article explores the rise of limited-edition sneakers and how they're shaping the fashion industry.",
+      "image": "/src/assets/images/news6.jpg",
+      "date": "2024-11-10",
+      "author": "Sneaker Trends",
+      "category": "Sneaker News"
+    },
+    {
+      "id": 7,
+      "title": "Autumn Trends 2024: Must-Have Pieces for Your Wardrobe",
+      "description": "Autumn is here, and it's time to update your wardrobe. From oversized coats to knit scarves, discover the must-have pieces for the fall season.",
+      "image": "/src/assets/images/news7.webp",
+      "date": "2024-10-20",
+      "author": "Fashion Experts",
+      "category": "Trends"
+    },
+    {
+      "id": 8,
+      "title": "The Rise of Sustainable Fashion: What You Need to Know",
+      "description": "Sustainability is more than just a buzzword—it's a movement. Explore how sustainable fashion is making a difference and how you can contribute to a more eco-friendly wardrobe.",
+      "image": "/src/assets/images/news8.jpg",
+      "date": "2024-09-30",
+      "author": "Eco Fashion",
+      "category": "Sustainability"
+    },
+    {
+      "id": 9,
+      "title": "Exclusive Interview with Fashion Designer Sarah James",
+      "description": "We sat down with renowned fashion designer Sarah James to discuss her latest collection and the future of fashion. Get insights straight from the expert!",
+      "image": "/src/assets/images/news9.jpg",
+      "date": "2024-11-05",
+      "author": "Fashion Insider",
+      "category": "Interviews"
+    },
+    {
+      "id": 10,
+      "title": "The Ultimate Guide to Fashion Accessories",
+      "description": "No outfit is complete without the perfect accessories. In this guide, we explore the essential accessories every fashionista needs, from statement necklaces to chic handbags.",
+      "image": "/src/assets/images/news10.jpg",
+      "date": "2024-11-01",
+      "author": "Style Experts",
+      "category": "Fashion Tips"
+    },
+    {
+      "id": 11,
+      "title": "Black Friday Sneak Peek: Best Deals of the Year!",
+      "description": "Black Friday is almost here! Get a sneak peek at the best deals on clothing, shoes, and accessories. Save big this holiday season with our exclusive discounts.",
+      "image": "/src/assets/images/news11.jpg",
+      "date": "2024-11-10",
+      "author": "Sales Team",
+      "category": "Sales"
+    },
+    {
+      "id": 12,
+      "title": "How to Build a Capsule Wardrobe for Every Season",
+      "description": "A capsule wardrobe is a minimalist approach to fashion. Learn how to build a capsule wardrobe that will keep you stylish and prepared for every season.",
+      "image": "/src/assets/images/news12.jpg",
+      "date": "2024-10-15",
+      "author": "Fashion Simplified",
+      "category": "Style Guide"
+    }
   ]
 }

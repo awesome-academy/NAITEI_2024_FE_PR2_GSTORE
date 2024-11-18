@@ -1,5 +1,29 @@
 {
   "slider": {
     "shop_now": "Shop now"
+  },
+  "new_arrivals": {
+    "title": "New arrivals",
+    "description": "Explore our latest arrivals and discover the freshest styles to elevate your wardrobe this season."
+  },
+  "top_products": {
+    "title": "Top products",
+    "description": "Discover our top products and find the perfect piece for you."
+  },
+  "banner": {
+    "title": "Mega Sale",
+    "description": "Up to 70% Off On All Products"
+  },
+  "review": {
+    "title": "Client Reviews",
+    "description": "What our clients say about us"
+  },
+  "free_shipping": {
+    "title": "Free Shipping Worldwide"
+  },
+  "news": {
+    "title": "Latest News",
+    "description": "Get the latest news from our blog",
+    "read_more": "Read more"
   }
 }
