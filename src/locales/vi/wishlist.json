@@ -1,0 +1,13 @@
+{
+  "wishlist": {
+    "loading-wishlist": "Your wishlist is empty.",
+    "back": "Back to Products",
+    "wishlist": "Your Wishlist",
+    "product-name": "Product Name",
+    "unit-price": "Unit Price",
+    "qty": "Quantity",
+    "cart": "Add To Cart",
+    "delete": "Delete",
+    "shopping": "← Continue Shopping"
+  }
+}

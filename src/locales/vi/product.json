@@ -2,6 +2,11 @@
   "product": {
     "loading": "Loading products...",
     "wishlist": "Thêm vào WishList",
-    "cart": "Thêm Vào Giỏ"
+    "cart": "Thêm Vào Giỏ",
+    "loading-details": "Loading product details...",
+    "loading-failed": "Product not found. Please go back to the product list.",
+    "description": "Mô tả",
+    "rate": "Đánh giá",
+    "related-products": "Sản phẩm liên quan"
   }
 }
