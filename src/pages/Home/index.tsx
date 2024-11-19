@@ -7,6 +7,7 @@ import Slider from './Slider'
 import TopProducts from './TopProducts'
 import FreeShipping from './FreeShipping'
 import News from './News'
+import { ToastContainer } from 'react-toastify'
 
 const Home = () => {
   const { t } = useTranslation('home')
@@ -20,6 +21,7 @@ const Home = () => {
       <ClientReviews />
       <FreeShipping />
       <News />
+      <ToastContainer />
     </>
   )
 }

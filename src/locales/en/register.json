@@ -1,0 +1,17 @@
+{
+  "createAccount": "Create New Account",
+  "title": "Register",
+  "welcome": "Welcome to GSHOP",
+  "have_account": "Already have an account",
+  "sign_up": "Sign Up",
+  "login_now": "Login Now",
+  "alert": {
+    "password_mismatch": "Password mismatch",
+    "registration_successful": "Registration successful",
+    "registration_failed": "Registration failed"
+  },
+  "username": "Username",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "registering": "Registering"
+}

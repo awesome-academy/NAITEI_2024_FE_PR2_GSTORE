@@ -1,0 +1,9 @@
+{
+  "title": "Giỏ hàng",
+  "name": "Tên sản phẩm",
+  "unit_price": "Đơn giá",
+  "qty": "Số lượng",
+  "subtotal": "Tổng cộng",
+  "action": "Hành động",
+  "add_success": "Thêm thành công"
+}

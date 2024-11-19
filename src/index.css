@@ -38,4 +38,8 @@
   .min-w-1-3 {
     min-width: calc(100% / 3);
   }
+
+  .container-custom {
+    @apply mx-auto w-full max-w-screen-xl px-4
+  }
 }

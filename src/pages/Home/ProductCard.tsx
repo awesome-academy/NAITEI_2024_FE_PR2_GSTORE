@@ -3,6 +3,8 @@ import { Tooltip } from 'react-tooltip'
 import { Product } from '../../types/product.type'
 import { FaHeart, FaShoppingCart, FaStar } from 'react-icons/fa'
 import { useTranslation } from 'react-i18next'
+import { addToCart } from '../../components/LogicCart'
+import Decode from '../../components/Decode'
 
 interface ProductProps {
   product: Product
@@ -11,6 +13,8 @@ interface ProductProps {
 const ProductCard: React.FC<ProductProps> = ({ product }) => {
   const { title, img, prevPrice, price, rating } = product
   const { t } = useTranslation(['product'])
+  const token = sessionStorage.getItem('token')
+  const userId = token ? Decode(token)?.id : undefined
   return (
     <div className='min-w-full px-0 md:min-w-[25%] md:px-5'>
       <div className='group relative rounded-lg border border-transparent transition-all duration-300 hover:border-gray-300 hover:shadow-lg'>
@@ -51,7 +55,12 @@ const ProductCard: React.FC<ProductProps> = ({ product }) => {
           ))}
         </div>
 
-        <div className='my-3 flex items-center justify-center'>
+        <div
+          className='my-3 flex items-center justify-center'
+          onClick={() =>
+            userId !== undefined && addToCart(product.id, product.img, product.title, product.price, userId, 1)
+          }
+        >
           <button className='flex items-center justify-center border-2 border-black px-4 py-2 text-sm uppercase text-black transition-colors duration-300 hover:bg-black hover:text-white'>
             {t('product.cart')}
             <FaShoppingCart className='ml-2' />

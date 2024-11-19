@@ -14,7 +14,6 @@ const TopProducts = () => {
     }
     getTopProducts()
   }, [])
-  console.log(topProducts)
   return (
     <>
       <div className='mx-auto w-full max-w-screen-xl px-4 py-16 text-center font-raleway'>
