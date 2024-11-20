@@ -3,4 +3,5 @@ export interface ProductQuery {
   _skip?: number
   _sort?: string
   _order?: string
+  userId?: number
 }

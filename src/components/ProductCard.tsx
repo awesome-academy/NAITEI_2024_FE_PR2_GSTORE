@@ -5,10 +5,14 @@ import { ProductProps } from '../types/productCard.type';
 import { Link } from 'react-router-dom';
 import { useWishlist } from './WishlistContext';
 import { toast } from 'react-toastify';
+import Decode from './Decode';
+import { addToCart } from './LogicCart';
 
 const ProductCard: React.FC<ProductProps> = ({ id, title, price, prevPrice, discount, rating, img, searchTerm }) => {
   const { t } = useTranslation('product');
   const { addToWishlist } = useWishlist();
+  const token = sessionStorage.getItem('token')
+  const userId = token ? Decode(token)?.id : undefined
 
   // Xử lý làm nổi bật từ khóa trong tiêu đề
   const highlightTitle = (title: string, searchTerm: string) => {
@@ -87,7 +91,9 @@ const ProductCard: React.FC<ProductProps> = ({ id, title, price, prevPrice, disc
         </div>
 
         {/* Nút thêm vào giỏ hàng */}
-        <button className="mt-2 bg-white text-black text-base font-semibold w-full py-2 border-2 rounded hover:bg-gray-600 hover:text-white transition-colors duration-300 flex items-center justify-center space-x-2">
+        <button className="mt-2 bg-white text-black text-base font-semibold w-full py-2 border-2 rounded hover:bg-gray-600 hover:text-white transition-colors duration-300 flex items-center justify-center space-x-2" onClick={() =>
+            userId !== undefined && addToCart(id, img, title, price, userId, 1)
+          }>
           <span>{t('product.cart')}</span>
           <FaShoppingCart className="w-5 h-5" />
         </button>

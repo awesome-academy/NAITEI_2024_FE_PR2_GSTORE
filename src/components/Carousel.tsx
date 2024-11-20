@@ -27,9 +27,6 @@ const Carousel: React.FC<CarouselProps> = ({
   const [currentIndex, setCurrentIndex] = useState(itemsPerPage)
   const [isManual, setIsManual] = useState(false)
   const translateX = useMemo(() => -(currentIndex * (100 / itemPage)), [currentIndex, itemPage])
-
-  console.log(itemPage)
-
   const extendedItems = [...items.slice(-itemsPerPage), ...items, ...items.slice(0, itemsPerPage)]
 
   const goToNext = useCallback(() => {

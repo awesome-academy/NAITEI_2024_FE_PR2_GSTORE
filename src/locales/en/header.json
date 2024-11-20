@@ -5,6 +5,9 @@
   "login": "Login",
   "wish_list": "Wish list",
   "my_cart": "My cart",
+  "logout": "Logout",
+  "profile": "Profile",
+  "history_purchase": "History purchase",
   "language": {
     "en": "English",
     "vi": "Vietnamese"

@@ -62,7 +62,7 @@ const Slider = () => {
                 </h2>
                 <h3 className={`mb-4 ${isFading ? 'slideUp' : ''}`}>{slides[nextSlide - 1].description}</h3>
                 <Link
-                  to='/shop'
+                  to='/products'
                   className={`max-w-[150px] bg-black px-4 py-4 text-center font-extrabold hover:bg-yellow-500 ${isFading ? 'slideUp' : ''}`}
                 >
                   {t('slider.shop_now')}

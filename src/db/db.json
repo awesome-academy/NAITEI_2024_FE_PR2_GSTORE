@@ -1085,6 +1085,111 @@
       "category": "Style Guide"
     }
   ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "john123",
+      "email": "user1@gmail.com",
+      "password": "123456",
+      "avatar": "/src/assets/images/user1.jpg"
+    },
+    {
+      "name": "chu dinh hien",
+      "username": "hien1803",
+      "email": "hienc1212@gmail.com",
+      "password": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae",
+      "avatar": "/src/assets/images/client1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Dinh Van Luong",
+      "username": "luong123",
+      "email": "luong123@gmail.com",
+      "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "avatar": "/src/assets/images/client5.jpg",
+      "id": 3
+    },
+    {
+      "name": "chu dinh hien",
+      "username": "hien123",
+      "email": "hienc1212@gmail.com",
+      "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "avatar": "/src/assets/images/client8.jpg",
+      "id": 4
+    },
+    {
+      "name": "dinh van luan",
+      "username": "luanceog2b",
+      "email": "dinh.van.luan@g2b.com",
+      "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "avatar": "/src/assets/images/client7.jpg",
+      "id": 5
+    }
+  ],
+  "carts": [
+    {
+      "userId": 2,
+      "products": [
+        {
+          "productId": "12",
+          "img": "https://ah-theme.com/gstore/preview/img/product4.jpg",
+          "productName": "Product fashion",
+          "price": 114,
+          "qty": 1
+        },
+        {
+          "productId": "31",
+          "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-TRA%20SJN7026-XDM%20(5).jpg",
+          "productName": "Men's Lightweight Puffer Jacket",
+          "price": 69.99,
+          "qty": 1
+        },
+        {
+          "productId": "2",
+          "img": "https://m.media-amazon.com/images/I/71U1e4XCVJL._SY879_.jpg",
+          "productName": "fanideaz Men’s Cotton Full Sleeve Henley T Shirts for Men",
+          "price": 22.3,
+          "qty": 1
+        },
+        {
+          "productId": "3",
+          "img": "https://m.media-amazon.com/images/I/81R-fGWEKNL._AC_SX679_.jpg",
+          "productName": "Quarter Zip Sweater Men's Pullover Sweaters Knit Long Sleeve Sweater Men",
+          "price": 29.99,
+          "qty": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "products": [
+        {
+          "productId": "13",
+          "img": "https://ah-theme.com/gstore/preview/img/product5.jpg",
+          "productName": "Product fashion",
+          "price": 599,
+          "qty": 2
+        },
+        {
+          "productId": "8",
+          "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-len-nu-co-tron-yody-ALN7023-DEN%20(2).jpg",
+          "productName": " Rose Gold Plated Stainless SPierced Owlteel Double",
+          "price": 120.99,
+          "qty": 2
+        },
+        {
+          "productId": "12",
+          "img": "https://ah-theme.com/gstore/preview/img/product4.jpg",
+          "productName": "Product fashion",
+          "price": 114,
+          "qty": 1
+        }
+      ],
+      "userId": 5,
+      "id": 3
+    }
+  ],
   "wishlist": [
     {
       "id": "4",
@@ -1103,6 +1208,30 @@
       "title": "adidas Unisex Prime 6 Backpack, Black, One Size",
       "price": 70,
       "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/sam5003-xla-14.jpg"
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 950,
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/chan-vay-nu-yody-CJN7019-DEN%20(1).jpg"
+    },
+    {
+      "id": "6",
+      "title": "Hafeez Center 14K Solid Gold Petite Micropave Milgrain Eternity Ring Diamond Band Ring for Women and Girls",
+      "price": 168,
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-so-mi-nam-coc-tay-yody-SCM7125-XAH%20(5).JPG"
+    },
+    {
+      "id": "2",
+      "title": "fanideaz Men’s Cotton Full Sleeve Henley T Shirts for Men",
+      "price": 22.3,
+      "img": "https://m.media-amazon.com/images/I/71U1e4XCVJL._SY879_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "img": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "title": "Cart",
+  "name": "Product Name",
+  "unit_price": "Unit Price",
+  "qty": "Qty",
+  "subtotal": "Subtotal",
+  "action": "Action",
+  "add_success": "Add success"
+}

@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next'
 const NewArrival = () => {
   const [newProducts, setNewProducts] = useState<Product[]>([])
   const { t } = useTranslation(['home'])
+
   useEffect(() => {
     const getNewProducts = async () => {
       const data = await getData('products', { _limit: 8, _sort: 'price', _order: 'desc' })
@@ -14,6 +15,7 @@ const NewArrival = () => {
     }
     getNewProducts()
   }, [])
+
   return (
     <>
       <div className='mx-auto w-full max-w-screen-xl px-4 py-16 text-center font-raleway'>

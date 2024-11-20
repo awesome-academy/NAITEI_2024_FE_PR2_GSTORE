@@ -5,6 +5,9 @@
   "login": "Đăng nhập",
   "wish_list": "Yêu thích",
   "my_cart": "Giỏ hàng",
+  "logout": "Đăng xuất",
+  "profile": "Hồ sơ",
+  "history_purchase": "Lịch sử mua hàng",
   "language": {
     "en": "Tiếng Anh",
     "vi": "Tiếng Việt"
