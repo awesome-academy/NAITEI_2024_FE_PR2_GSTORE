@@ -8,7 +8,6 @@ const Breadcrumb: React.FC = () => {
 
   const formatLabel = (path: string) => {
     const formatted = path.replace(/-/g, ' ').replace(/\b\w/g, (char) => char.toUpperCase())
-    console.log(formatted)
     return t(formatted.toLowerCase(), formatted.toLowerCase())
   }
 

@@ -11,4 +11,5 @@ export interface Product {
   img: string;
   category: string;
   company: string;
+  description: string; // Optional:
 }

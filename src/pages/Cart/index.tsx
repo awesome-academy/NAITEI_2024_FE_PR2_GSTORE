@@ -2,7 +2,7 @@ import Breadcrumb from '../../components/Breadcrumb'
 import LoginImg from '../../assets/images/top-bg.jpg'
 import { useTranslation } from 'react-i18next'
 import { BiTrash } from 'react-icons/bi'
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import Decode from '../../components/Decode'
 import { getData, putData } from '../../services/dataService'
 
@@ -24,8 +24,7 @@ const Cart = () => {
   const [couponCode, setCouponCode] = useState('')
   const [alert, setAlert] = useState('')
   const [alertColor, setAlertColor] = useState('')
-
-  console.log(carts)
+  const cartId = useRef<number | undefined>(undefined)
 
   const calculateTotal = useCallback(() => {
     const newSubtotal = carts.reduce((acc, cart) => acc + cart.price * cart.qty, 0)
@@ -33,11 +32,14 @@ const Cart = () => {
     setGrandTotal(newSubtotal + shipping - discount)
   }, [carts, shipping, discount])
 
-  const updateQuantity = (index: number, quantity: number) => {
-    if (isNaN(quantity) || quantity < 1) quantity = 1
+  const updateQuantity = async (index: number, qty: number) => {
+    const token = sessionStorage.getItem('token')
+    const id = token ? Decode(token)?.id : undefined
+    if (isNaN(qty) || qty < 1) qty = 1
     const updatedCarts = [...carts]
-    updatedCarts[index].qty = quantity
+    updatedCarts[index].qty = qty
     setCarts(updatedCarts)
+    await putData(`carts/${cartId.current}`, { products: updatedCarts, userId: id })
     calculateTotal()
   }
 
@@ -48,7 +50,7 @@ const Cart = () => {
       calculateTotal()
       const token = sessionStorage.getItem('token')
       const id = token ? Decode(token)?.id : undefined
-      await putData(`carts/${id}`, { products: updatedCarts })
+      await putData(`carts/${cartId.current}`, { products: updatedCarts, userId: id })
       console.log(`Product with ID: ${productId} has been removed.`)
     } catch (error) {
       console.error('Error deleting product from cart:', error)
@@ -80,12 +82,13 @@ const Cart = () => {
     const id = token ? Decode(token)?.id : undefined
     const getCarts = async () => {
       const carts = await getData('carts', { userId: id })
-      const updatedCarts = carts[0].products.map((product: Cart) => ({
-        ...product,
-        quantity: 1
-      }))
-      console.log(updatedCarts)
-      setCarts(updatedCarts)
+      if (carts.length > 0) {
+        cartId.current = carts[0].id
+        const updatedCarts = carts[0].products.map((product: Cart) => ({
+          ...product
+        }))
+        setCarts(updatedCarts)
+      }
     }
     getCarts()
   }, [])

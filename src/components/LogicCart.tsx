@@ -29,15 +29,15 @@ export const addToCart = async (
 
       if (existingProductIndex !== -1) {
         const updatedCart = [...cart.products]
-        updatedCart[existingProductIndex].quantity += 1
+        updatedCart[existingProductIndex].qty += 1
 
-        await putData(`carts/${id}`, { userId, products: updatedCart, id })
+        await putData(`carts/${id}`, { userId, products: updatedCart })
         return 'Product quantity updated in cart.'
       } else {
         const newProduct = { productId, img, productName, price, qty }
         const updatedCart = [...cart.products, newProduct]
 
-        await putData(`carts/${id}`, { userId, products: updatedCart, id })
+        await putData(`carts/${id}`, { userId, products: updatedCart })
         toast.success(`Add success ${productName}`, {
           position: 'top-right',
           autoClose: 1000,
@@ -54,7 +54,7 @@ export const addToCart = async (
     } else {
       const newCart = {
         userId,
-        products: [{ productId, img, productName, price, quantity: 1 }]
+        products: [{ productId, img, productName, price, qty: 1 }]
       }
       await postData('carts', newCart)
       return 'Product added to new cart.'

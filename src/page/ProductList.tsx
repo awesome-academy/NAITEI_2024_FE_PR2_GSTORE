@@ -6,6 +6,7 @@ import Pagination from '../components/Pagination';
 import PaginationOption from '../components/PaginationOption';
 import { useTranslation } from 'react-i18next';
 import { Product } from '../types/product.type';
+import HeaderBanner from '../layouts/HeaderBanner';
 
 const ProductList: React.FC = () => {
   const { t } = useTranslation('product');
@@ -96,16 +97,19 @@ const ProductList: React.FC = () => {
   }
 
   return (
-    <div className="flex content-normal p-8 space-x-8">
-      <div className="w-1/4">
+    <div>
+      {/* Use HeaderBanner Component */}
+      <HeaderBanner title="Men Page" breadcrumb={['Home', 'Men']} />
+      <div className="flex flex-wrap md:flex-nowrap content-normal p-8 space-x-8">
+      <div className="w-full md:w-1/4">
         <Filter
           onFilterChange={handleFilterChange}
           categories={[...new Set(products.map((product) => product.category))]}
           companies={[...new Set(products.map((product) => product.company))]}
         />
       </div>
-      <div className="w-3/4 space-y-4">
-        <div className="flex justify-end items-center">
+      <div className="w-full md:w-3/4 space-y-4">
+        <div className="flex flex-wrap md:flex-nowrap justify-end items-center">
           <Sort onSortChange={(sortOption) => handleFilterChange({ ...filters, sortOption })} />
           <PaginationOption onHitsPerPageChange={handleHitsPerPageChange} />
         </div>
@@ -116,6 +120,7 @@ const ProductList: React.FC = () => {
         </div>
         <Pagination currentPage={currentPage} totalPages={pageCount} onPageChange={handlePageChange} />
       </div>
+    </div>
     </div>
   );
 };

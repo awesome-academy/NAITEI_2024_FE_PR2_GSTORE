@@ -18,6 +18,8 @@ import REGISTER_EN from '../locales/en/register.json'
 import REGISTER_VI from '../locales/vi/register.json'
 import CART_EN from '../locales/en/cart.json'
 import CART_VI from '../locales/vi/cart.json'
+import WISHLIST_EN from '../locales/en/wishlist.json'
+import WISHLIST_VI from '../locales/vi/wishlist.json'
 
 export const resources = {
   en: {
@@ -29,7 +31,8 @@ export const resources = {
     login: LOGIN_EN,
     breadcrumb: BREADCRUMB_EN,
     register: REGISTER_EN,
-    cart: CART_EN
+    cart: CART_EN,
+    wishlist: WISHLIST_EN
   },
   vi: {
     header: HEADER_VI,
@@ -40,7 +43,8 @@ export const resources = {
     login: LOGIN_VI,
     breadcrumb: BREADCRUMB_VI,
     register: REGISTER_VI,
-    cart: CART_VI
+    cart: CART_VI,
+    wishlist: WISHLIST_VI
   }
 }
 

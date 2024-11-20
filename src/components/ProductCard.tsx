@@ -1,10 +1,18 @@
 import React from 'react';
 import { FaShoppingCart, FaStar, FaHeart } from 'react-icons/fa';
-import { useTranslation } from 'react-i18next'
-import { ProductProps } from '../types/productCard.type'
+import { useTranslation } from 'react-i18next';
+import { ProductProps } from '../types/productCard.type';
+import { Link } from 'react-router-dom';
+import { useWishlist } from './WishlistContext';
+import { toast } from 'react-toastify';
+import Decode from './Decode';
+import { addToCart } from './LogicCart';
 
-const ProductCard: React.FC<ProductProps> = ({ title, price, prevPrice, discount, rating, img, searchTerm }) => {
+const ProductCard: React.FC<ProductProps> = ({ id, title, price, prevPrice, discount, rating, img, searchTerm }) => {
   const { t } = useTranslation('product');
+  const { addToWishlist } = useWishlist();
+  const token = sessionStorage.getItem('token')
+  const userId = token ? Decode(token)?.id : undefined
 
   // Xử lý làm nổi bật từ khóa trong tiêu đề
   const highlightTitle = (title: string, searchTerm: string) => {
@@ -13,6 +21,19 @@ const ProductCard: React.FC<ProductProps> = ({ title, price, prevPrice, discount
     return parts.map((part, index) =>
       part.toLowerCase() === searchTerm.toLowerCase() ? <strong key={index} className="text-amber-500">{part}</strong> : part
     );
+  };
+
+  const handleAddToWishlist = () => {
+    addToWishlist({ id, title, price, img }); // Thêm sản phẩm vào wishlist
+    toast.success('Added to Wishlist!', {
+      position: 'top-right',
+      autoClose: 3000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+    });
   };
 
   return (
@@ -31,7 +52,9 @@ const ProductCard: React.FC<ProductProps> = ({ title, price, prevPrice, discount
 
         {/* Hiển thị nút Add to Wishlist khi hover */}
         <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-75 text-white py-2 opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300">
-          <button className="text-white font-semibold text-base flex items-center m-auto justify-center space-x-2">
+          <button
+            onClick={handleAddToWishlist}
+            className="text-white font-semibold text-base flex items-center m-auto justify-center space-x-2">
             <span>{t('product.wishlist')}</span>
             <FaHeart className="w-5 h-5" />
           </button>
@@ -40,9 +63,11 @@ const ProductCard: React.FC<ProductProps> = ({ title, price, prevPrice, discount
 
       <div className="p-4 text-center">
         {/* Tên sản phẩm */}
-        <h2 className="text-lg font-semibold text-gray-800 truncate hover:text-amber-500 cursor-pointer" title={title}>
-          {highlightTitle(title, searchTerm)}
-        </h2>
+        <Link to={`/product/${id}`} state={{ id, title, price, prevPrice, discount, rating, img }} className="block">
+          <h2 className="text-lg font-semibold text-gray-800 truncate hover:text-amber-500 cursor-pointer" title={title}>
+            {highlightTitle(title, searchTerm)}
+          </h2>
+        </Link>
 
         {/* Giá sản phẩm */}
         <div className="flex items-center justify-center space-x-2 my-2">
@@ -66,7 +91,9 @@ const ProductCard: React.FC<ProductProps> = ({ title, price, prevPrice, discount
         </div>
 
         {/* Nút thêm vào giỏ hàng */}
-        <button className="mt-2 bg-white text-black text-base font-semibold w-full py-2 border-2 rounded hover:bg-gray-600 hover:text-white transition-colors duration-300 flex items-center justify-center space-x-2">
+        <button className="mt-2 bg-white text-black text-base font-semibold w-full py-2 border-2 rounded hover:bg-gray-600 hover:text-white transition-colors duration-300 flex items-center justify-center space-x-2" onClick={() =>
+            userId !== undefined && addToCart(id, img, title, price, userId, 1)
+          }>
           <span>{t('product.cart')}</span>
           <FaShoppingCart className="w-5 h-5" />
         </button>

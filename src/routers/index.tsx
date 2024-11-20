@@ -6,6 +6,8 @@ import ProductList from '../page/ProductList'
 import Login from '../pages/Login'
 import Register from '../pages/Register'
 import Cart from '../pages/Cart'
+import ProductDetailPage from '../page/ProductDetailPage'
+import Wishlist from '../page/Wishlist'
 
 export default function Router() {
   return useRoutes([
@@ -17,7 +19,9 @@ export default function Router() {
         { path: '/products', element: <ProductList /> },
         { path: '/login', element: <Login /> },
         { path: '/register', element: <Register /> },
-        { path: '/cart', element: <Cart /> }
+        { path: '/cart', element: <Cart /> },
+        { path: '/product/:id', element: <ProductDetailPage /> },
+        { path: '/wishlist', element: <Wishlist /> }
       ]
     }
   ])
