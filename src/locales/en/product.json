@@ -2,6 +2,12 @@
   "product": {
     "loading": "Loading products...",
     "wishlist": "Add To WishList",
-    "cart": "ADD TO CART"
+    "cart": "ADD TO CART",
+    "loading-details": "Loading product details...",
+    "loading-failed": "Product not found. Please go back to the product list.",
+    "description": "Description",
+    "rate": "Rates",
+    "related-products": "Related Products",
+    "Category": "Category"
   }
 }

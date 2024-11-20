@@ -10,6 +10,8 @@ import PRODUCT_EN from '../locales/en/product.json'
 import PRODUCT_VI from '../locales/vi/product.json'
 import HOME_VI from '../locales/vi/home.json'
 import HOME_EN from '../locales/en/home.json'
+import WISHLIST_EN from '../locales/en/wishlist.json'
+import WISHLIST_VI from '../locales/vi/wishlist.json'
 
 export const resources = {
   en: {
@@ -17,14 +19,16 @@ export const resources = {
     footer: FOOTER_EN,
     filter: FILTER_EN,
     product: PRODUCT_EN,
-    home: HOME_EN
+    home: HOME_EN,
+    wishlist: WISHLIST_EN
   },
   vi: {
     header: HEADER_VI,
     footer: FOOTER_VI,
     filter: FILTER_VI,
     product: PRODUCT_VI,
-    home: HOME_VI
+    home: HOME_VI,
+    wishlist: WISHLIST_VI
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "title": "adidas Unisex Prime 6 Backpack, Black, One Size",
       "price": 70,
       "discount": 50,
@@ -23,7 +23,7 @@
       "color": "black"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "fanideaz Men’s Cotton Full Sleeve Henley T Shirts for Men",
       "price": 22.3,
       "discount": 30,
@@ -45,7 +45,7 @@
       "color": "white"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Quarter Zip Sweater Men's Pullover Sweaters Knit Long Sleeve Sweater Men",
       "price": 29.99,
       "discount": 0,
@@ -69,7 +69,7 @@
       "color": "Navy"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "ANRABESS Womens Zip Up Hoodies Long Sleeve Oversized Sweatshirts Fleece Y2K Jacket Pockets 2024 Fall Outfits Fashion Clothes",
       "price": 35.99,
       "discount": 20,
@@ -94,7 +94,7 @@
       "color": "pink"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
       "price": 950,
       "discount": 0,
@@ -115,7 +115,7 @@
       "color": "silver"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Hafeez Center 14K Solid Gold Petite Micropave Milgrain Eternity Ring Diamond Band Ring for Women and Girls",
       "price": 168,
       "discount": 0,
@@ -137,7 +137,7 @@
       "color": "gold"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "White Gold Plated Princess",
       "price": 29.99,
       "discount": 10,
@@ -159,7 +159,7 @@
       "color": "silver"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": " Rose Gold Plated Stainless SPierced Owlteel Double",
       "price": 120.99,
       "discount": 0,
@@ -181,7 +181,7 @@
       "color": "red"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "PUMA Women's Essentials Logo Fleece Hoodie",
       "price": 19.99,
       "discount": 20,
@@ -203,7 +203,7 @@
       "color": "black"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Product fashion",
       "price": 109,
       "discount": 0,
@@ -225,7 +225,7 @@
       "color": "red"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Hoodies",
       "price": 109,
       "discount": 0,
@@ -248,7 +248,7 @@
       "color": "red"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Product fashion",
       "price": 114,
       "discount": 0,
@@ -271,7 +271,7 @@
       "color": "red"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Product fashion",
       "price": 599,
       "discount": 0,
@@ -294,7 +294,7 @@
       "color": "red"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Product fashion",
       "price": 999.99,
       "discount": 0,
@@ -317,7 +317,7 @@
       "color": "red"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
       "price": 56.99,
       "discount": 0,
@@ -340,7 +340,7 @@
       "color": "red"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
       "price": 29.95,
       "discount": 0,
@@ -363,7 +363,7 @@
       "color": "red"
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
       "price": 39.99,
       "discount": 0,
@@ -386,7 +386,7 @@
       "color": "red"
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
       "price": 9.85,
       "discount": 0,
@@ -409,7 +409,7 @@
       "color": "red"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Opna Women's Short Sleeve Moisture",
       "price": 7.95,
       "discount": 0,
@@ -432,7 +432,7 @@
       "color": "red"
     },
     {
-      "id": 21,
+      "id": "21",
       "title": "KiddyCare Baby Diapers",
       "price": 19.99,
       "discount": 0,
@@ -455,7 +455,7 @@
       "color": "red"
     },
     {
-      "id": 22,
+      "id": "22",
       "title": "Leggings Depot High Waisted Leggings -Soft & Slim",
       "price": 9.99,
       "discount": 0,
@@ -478,7 +478,7 @@
       "color": "red"
     },
     {
-      "id": 23,
+      "id": "23",
       "title": "Crocs Kids' Handle It Rain Boots | Waterproof Slip On Shoes | Kids' Rain Boots",
       "price": 34.99,
       "discount": 0,
@@ -501,7 +501,7 @@
       "color": "red"
     },
     {
-      "id": 24,
+      "id": "24",
       "title": "PUMA Baby Boys' Tricot Track Jacket & Pant Set",
       "price": 28.99,
       "discount": 0,
@@ -524,7 +524,7 @@
       "color": "red"
     },
     {
-      "id": 25,
+      "id": "25",
       "title": "New Balance Kids' 888 V2 Hook and Loop Running Shoe",
       "price": 39.95,
       "discount": 0,
@@ -547,7 +547,7 @@
       "color": "red"
     },
     {
-      "id": 26,
+      "id": "26",
       "title": "Naturalizer Women's Kelsey Platform Loafer",
       "price": 89.99,
       "discount": 0,
@@ -570,7 +570,7 @@
       "color": "red"
     },
     {
-      "id": 27,
+      "id": "27",
       "title": "Naturalizer Women's Saban Slip-On Loafer",
       "price": 49.99,
       "discount": 0,
@@ -593,7 +593,7 @@
       "color": "red"
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "DREAM PAIRS Women's Sole_Stretchy Fashion Elastic Ankle Straps Flats Shoes",
       "price": 16.99,
       "discount": 0,
@@ -616,7 +616,7 @@
       "color": "red"
     },
     {
-      "id": 29,
+      "id": "29",
       "title": "Naturalizer Women's Banks Pump",
       "price": 59.99,
       "discount": 0,
@@ -639,9 +639,9 @@
       "color": "red"
     },
     {
-      "id": 30,
+      "id": "30",
       "title": "Men's Casual Chino Pants",
-      "price": 35.00,
+      "price": 35,
       "discount": 15,
       "prevPrice": "$40.00",
       "priceRange": "$10-$50",
@@ -660,7 +660,7 @@
       "color": "beige"
     },
     {
-      "id": 31,
+      "id": "31",
       "title": "Men's Lightweight Puffer Jacket",
       "price": 69.99,
       "discount": 30,
@@ -681,7 +681,7 @@
       "color": "navy"
     },
     {
-      "id": 32,
+      "id": "32",
       "title": "Women's Classic Turtleneck Sweater",
       "price": 34.99,
       "discount": 15,
@@ -702,7 +702,7 @@
       "color": "grey"
     },
     {
-      "id": 33,
+      "id": "33",
       "title": "Women's Maxi Dress",
       "price": 39.99,
       "discount": 10,
@@ -723,7 +723,7 @@
       "color": "red"
     },
     {
-      "id": 34,
+      "id": "34",
       "title": "Men's Slim Fit T-Shirt",
       "price": 19.99,
       "discount": 5,
@@ -744,7 +744,7 @@
       "color": "white"
     },
     {
-      "id": 35,
+      "id": "35",
       "title": "Women's High-Waist Yoga Pants",
       "price": 29.99,
       "discount": 0,
@@ -765,7 +765,7 @@
       "color": "black"
     },
     {
-      "id": 36,
+      "id": "36",
       "title": "Men's Fleece Joggers",
       "price": 25.99,
       "discount": 10,
@@ -786,7 +786,7 @@
       "color": "grey"
     },
     {
-      "id": 37,
+      "id": "37",
       "title": "Women's Solid Short Sleeve Boat Neck Top",
       "price": 9.85,
       "discount": 0,
@@ -807,7 +807,7 @@
       "color": "navy"
     },
     {
-      "id": 38,
+      "id": "38",
       "title": "Opna Women's Moisture-Wicking T-Shirt",
       "price": 7.95,
       "discount": 0,
@@ -821,14 +821,14 @@
       ],
       "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-polo-nam-APM7329-GHI%20(10).jpg",
       "rating": {
-        "rate": 4.0,
+        "rate": 4,
         "count": 270
       },
       "company": "Opna",
       "color": "pink"
     },
     {
-      "id": 39,
+      "id": "39",
       "title": "Men's Classic Denim Jacket",
       "price": 59.99,
       "discount": 20,
@@ -849,7 +849,7 @@
       "color": "blue"
     },
     {
-      "id": 40,
+      "id": "40",
       "title": "Women's Lightweight Down Vest",
       "price": 39.99,
       "discount": 5,
@@ -872,21 +872,21 @@
   ],
   "slides": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Summer<br>Collection",
       "subTitle": "New Amazing Prices",
       "description": "Discover our Summer Collection with amazing deals. Elevate your style and stay cool all season long. Don’t miss out—shop now and refresh your wardrobe!",
       "backgroundImage": "/src/assets/images/slider1.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "New<br>Collection",
       "subTitle": "Spring & Summer",
       "description": "Introducing our new Spring & Summer Collection. Find the perfect outfit for any occasion. Shop now and enjoy free shipping on all orders over $100.",
       "backgroundImage": "/src/assets/images/slider2.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "New Offers 50%",
       "subTitle": "Brand New Collection",
       "description": "Get ready for the new season with our latest collection. Enjoy up to 50% off on selected items. Shop now and elevate your style with our trendy pieces.",
@@ -895,7 +895,7 @@
   ],
   "reviews": [
     {
-      "id": 1,
+      "id": "1",
       "name": "John Doe",
       "rating": 5,
       "date": "2021-06-15",
@@ -903,7 +903,7 @@
       "comment": "Great product! I love the quality and the fit. Will definitely buy again."
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Jane Smith",
       "rating": 4,
       "avatar": "/src/assets/images/client2.jpg",
@@ -911,7 +911,7 @@
       "comment": "Nice product. The fabric is soft and comfortable. I would recommend it to others."
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Alice Johnson",
       "rating": 5,
       "avatar": "/src/assets/images/client3.jpg",
@@ -919,7 +919,7 @@
       "comment": "Excellent product! The color is beautiful and the fit is perfect. I'm very happy with my purchase."
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Bob Brown",
       "rating": 4,
       "avatar": "/src/assets/images/client4.jpg",
@@ -927,7 +927,7 @@
       "comment": "Good product. The quality is good and the price is reasonable. I would buy it again."
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Mary Davis",
       "rating": 5,
       "avatar": "/src/assets/images/client5.jpg",
@@ -935,7 +935,7 @@
       "comment": "Great product! I love the design and the color. It fits perfectly and is very comfortable."
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "David Wilson",
       "rating": 4,
       "avatar": "/src/assets/images/client6.jpg",
@@ -943,7 +943,7 @@
       "comment": "Nice product. The fabric is soft and the fit is good. I would recommend it to others."
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Sarah Miller",
       "rating": 5,
       "avatar": "/src/assets/images/client7.jpg",
@@ -951,7 +951,7 @@
       "comment": "Excellent product! The quality is great and the price is very affordable. I'm very satisfied with my purchase."
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "James Taylor",
       "rating": 4,
       "avatar": "/src/assets/images/client8.jpg",
@@ -959,7 +959,7 @@
       "comment": "Good product. The design is nice and the color is beautiful. I would buy it again."
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Laura Thomas",
       "rating": 5,
       "avatar": "/src/assets/images/client9.jpg",
@@ -967,7 +967,7 @@
       "comment": "Great product! I love the fit and the fabric. It's very comfortable and looks great on me."
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Michael Harris",
       "rating": 4,
       "avatar": "/src/assets/images/client10.jpg",
@@ -977,7 +977,7 @@
   ],
   "news": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Winter Sale - Up to 50% Off!",
       "description": "This winter, get up to 50% off on all jackets, sweaters, and winter boots. Don't miss out on the best deals to stay warm and stylish!",
       "image": "/src/assets/images/news1.jpg",
@@ -986,7 +986,7 @@
       "category": "Promotion"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "New Collection: Summer Swimwear 2024",
       "description": "We're excited to unveil our 2024 summer swimwear collection. Featuring fresh designs and vibrant colors, these swimsuits are perfect for your beach getaway.",
       "image": "/src/assets/images/news2.jpg",
@@ -995,7 +995,7 @@
       "category": "New Arrivals"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "How to Style Office Outfits for Fall",
       "description": "Get ready for the fall season with our top tips for styling office outfits. From chic blouses to cozy blazers, discover how to mix and match pieces to create the perfect work wardrobe.",
       "image": "/src/assets/images/news3.jpg",
@@ -1004,7 +1004,7 @@
       "category": "Style Guide"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "End of Year Fashion Festival: Top Trends to Watch",
       "description": "The end-of-year fashion festival is almost here! Discover the top trends that will define the upcoming season, from bold prints to elegant evening wear.",
       "image": "/src/assets/images/news4.jpg",
@@ -1013,7 +1013,7 @@
       "category": "Events"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "How to Care for Your Leather Boots During the Rainy Season",
       "description": "Leather boots require special care, especially during the rainy season. Learn how to properly protect and maintain your boots so they last longer and stay looking great.",
       "image": "/src/assets/images/news5.jpg",
@@ -1022,7 +1022,7 @@
       "category": "Tips & Tricks"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Sneaker Culture: The Rise of Limited-Edition Kicks",
       "description": "Sneakerheads are constantly on the lookout for the next big release. This article explores the rise of limited-edition sneakers and how they're shaping the fashion industry.",
       "image": "/src/assets/images/news6.jpg",
@@ -1031,7 +1031,7 @@
       "category": "Sneaker News"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Autumn Trends 2024: Must-Have Pieces for Your Wardrobe",
       "description": "Autumn is here, and it's time to update your wardrobe. From oversized coats to knit scarves, discover the must-have pieces for the fall season.",
       "image": "/src/assets/images/news7.webp",
@@ -1040,7 +1040,7 @@
       "category": "Trends"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "The Rise of Sustainable Fashion: What You Need to Know",
       "description": "Sustainability is more than just a buzzword—it's a movement. Explore how sustainable fashion is making a difference and how you can contribute to a more eco-friendly wardrobe.",
       "image": "/src/assets/images/news8.jpg",
@@ -1049,7 +1049,7 @@
       "category": "Sustainability"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Exclusive Interview with Fashion Designer Sarah James",
       "description": "We sat down with renowned fashion designer Sarah James to discuss her latest collection and the future of fashion. Get insights straight from the expert!",
       "image": "/src/assets/images/news9.jpg",
@@ -1058,7 +1058,7 @@
       "category": "Interviews"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "The Ultimate Guide to Fashion Accessories",
       "description": "No outfit is complete without the perfect accessories. In this guide, we explore the essential accessories every fashionista needs, from statement necklaces to chic handbags.",
       "image": "/src/assets/images/news10.jpg",
@@ -1067,7 +1067,7 @@
       "category": "Fashion Tips"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Black Friday Sneak Peek: Best Deals of the Year!",
       "description": "Black Friday is almost here! Get a sneak peek at the best deals on clothing, shoes, and accessories. Save big this holiday season with our exclusive discounts.",
       "image": "/src/assets/images/news11.jpg",
@@ -1076,13 +1076,33 @@
       "category": "Sales"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "How to Build a Capsule Wardrobe for Every Season",
       "description": "A capsule wardrobe is a minimalist approach to fashion. Learn how to build a capsule wardrobe that will keep you stylish and prepared for every season.",
       "image": "/src/assets/images/news12.jpg",
       "date": "2024-10-15",
       "author": "Fashion Simplified",
       "category": "Style Guide"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "4",
+      "title": "ANRABESS Womens Zip Up Hoodies Long Sleeve Oversized Sweatshirts Fleece Y2K Jacket Pockets 2024 Fall Outfits Fashion Clothes",
+      "price": 35.99,
+      "img": "https://m.media-amazon.com/images/I/61OY5aR1aDL._AC_SY741_.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Men's Casual Chino Pants",
+      "price": 35,
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/ao-khoac-nam-SKM7003-NAV%20(1).jpg"
+    },
+    {
+      "id": "1",
+      "title": "adidas Unisex Prime 6 Backpack, Black, One Size",
+      "price": 70,
+      "img": "https://m.yodycdn.com/fit-in/filters:format(webp)/products/sam5003-xla-14.jpg"
     }
   ]
 }
